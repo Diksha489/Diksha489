@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Diksha Pal
 
-🌱 Aspiring Full Stack Developer | 💻 Java, Python, MERN Stack | 🌐 Web & AI Enthusiast  
+🌱 Aspiring Full Stack Developer | 💻 Java, SQL, HTML, CSS | 🌐 Web & AI Enthusiast  
 📍 Based in India | 📚 Always learning and building new things  
 
 ---
