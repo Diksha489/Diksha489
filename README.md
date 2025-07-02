@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there! I'm Diksha Pal
 
-<!--
-**Diksha489/Diksha489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Full Stack Developer | 💻 Java, Python, MERN Stack | 🌐 Web & AI Enthusiast  
+📍 Based in India | 📚 Always learning and building new things  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 🔹 **Review System Backend** — Node.js backend for collecting and managing reviews
+- 🔹 **OTES (One Tap Emergency Service)** — Emergency service web app (Java)
+- 🔹 **Expense Tracker** — Simple budget tracking app (Java, Python, MERN)
+- 🔹 **AWS PartyRock App** — AI-based quiz + chatbot for rural farming education
+
+> ⚡ Always open to collaborations, contributions, and new ideas!
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Java, JavaScript, Python, C++
+- **Frontend**: HTML, CSS, React.js
+- **Backend**: Node.js, Express, Java (Servlets)
+- **Databases**: MongoDB, MySQL
+- **Cloud & Tools**: AWS, Git, Postman, VS Code, IntelliJ
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: dikshapal489@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/diksha489](https://linkedin.com/in/diksha489)  
+- 🧠 Blog (coming soon...)
+
+---
+
+⭐ **Thanks for visiting!** Let’s build something great together!
