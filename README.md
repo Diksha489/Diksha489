@@ -42,9 +42,9 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: dikshapal489@gmail.com  
+- 📧 Email: dpal67139@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/diksha489](https://linkedin.com/in/diksha489)  
-- 🧠 Blog (coming soon...)
+  
 
 ---
 
