@@ -43,7 +43,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: dpal67139@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/diksha489](https://linkedin.com/in/diksha489)  
+- 💼 LinkedIn: https://www.linkedin.com/in/diksha-pal-581518259 
   
 
 ---
