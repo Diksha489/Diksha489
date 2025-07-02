@@ -16,6 +16,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Diksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diksha489&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha489&layout=compact&theme=radical)
+
+
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, JavaScript, Python, C++
