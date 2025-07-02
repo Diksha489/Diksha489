@@ -8,9 +8,8 @@
 ## 🚀 Projects
 
 - 🔹 **Review System Backend** — Node.js backend for collecting and managing reviews
-- 🔹 **OTES (One Tap Emergency Service)** — Emergency service web app (Java)
 - 🔹 **Expense Tracker** — Simple budget tracking app (Java, Python, MERN)
-- 🔹 **AWS PartyRock App** — AI-based quiz + chatbot for rural farming education
+- 🔹 **Smart Email Assistant** — AI-powered tool that generates professional emails using tone selection and context, built with React & Spring Boot
 
 > ⚡ Always open to collaborations, contributions, and new ideas!
 
