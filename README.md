@@ -1,15 +1,16 @@
 # 👋 Hi there! I'm Diksha Pal
 
-🌱 Aspiring Full Stack Developer | 💻 Java, SQL, HTML, CSS | 🌐 Web & AI Enthusiast  
-📍 Based in India | 📚 Always learning and building new things  
+🚀 Full Stack Developer in progress  
+💻 Java • Spring Boot • .NET • C# • SQL • HTML • CSS • Javascript, React
+I’m passionate about building practical, user-focused applications — from AI-powered tools to complete full-stack systems. I love solving real-world problems, exploring new technologies, and constantly improving my skills.
 
 ---
 
 ## 🚀 Projects
 
-- 🔹 **Review System Backend** — Node.js backend for collecting and managing reviews
-- 🔹 **Expense Tracker** — Simple budget tracking app (Java, Python, MERN)
-- 🔹 **Smart Email Assistant** — AI-powered tool that generates professional emails using tone selection and context, built with React & Spring Boot
+- 🔹 **Review Management System (Backend)** — RESTful Node.js API for collecting, storing & managing user reviews
+- 🔹 **Expense Management System (MVC + API)** — .NET MVC app with dashboards, charts & category-based expense tracking
+- 🔹 **Smart Email Assistant** — AI tool that generates professional emails using Gemini API (React + Spring Boot)
 
 > ⚡ Always open to collaborations, contributions, and new ideas!
 
@@ -31,10 +32,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, JavaScript, Python, C++
+- **Languages**: Java, C#
 - **Frontend**: HTML, CSS, React.js
-- **Backend**: Node.js, Express, Java (Servlets)
-- **Databases**: MongoDB, MySQL
+- **Backend**: Node.js, Express, Java (Servlets), Spring-Boot
+- **Databases**: MongoDB, MySQL, SQL Server
 - **Cloud & Tools**: AWS, Git, Postman, VS Code, IntelliJ
 
 ---
