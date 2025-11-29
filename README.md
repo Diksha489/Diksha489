@@ -16,20 +16,6 @@ I’m passionate about building practical, user-focused applications — from AI
 
 ---
 
-## 📊 GitHub Stats
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Diksha489&theme=tokyonight&hide_border=true)
-
-### 📈 GitHub Profile Stats
-![Diksha's GitHub Stats](https://github-readme-stats-diksha489.vercel.app/api?username=Diksha489&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 💡 Top Languages
-![Top Languages](https://github-readme-stats-diksha489.vercel.app/api/top-langs/?username=Diksha489&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, C#
