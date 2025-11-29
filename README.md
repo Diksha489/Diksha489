@@ -18,16 +18,19 @@ I’m passionate about building practical, user-focused applications — from AI
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Diksha489&show_icons=true&theme=radical&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha489&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=Diksha489&theme=tokyonight&hide_border=true" width="48%" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Diksha489&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha489&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
 
 
 ## 🛠️ Tech Stack
