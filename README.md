@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Diksha Pal
 
 🚀 Full Stack Developer in progress  
-💻 Java • Spring Boot • .NET • C# • SQL • HTML • CSS • Javascript, React
+💻 Java • Spring Boot • .NET • C# • SQL • HTML • CSS • Javascript, React  
 I’m passionate about building practical, user-focused applications — from AI-powered tools to complete full-stack systems. I love solving real-world problems, exploring new technologies, and constantly improving my skills.
 
 ---
